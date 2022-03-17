@@ -1,5 +1,5 @@
-Start Project
+#Start Project
 
-git clone
-yarn install
-yarn start
+- git clone
+- yarn install
+- yarn start
