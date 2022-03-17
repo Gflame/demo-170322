@@ -1,5 +1,4 @@
-Start Project
-
-git clone
-yarn install
-yarn start
+#Start App
+ - git clone 
+ - yarn install
+ - yarn start 
