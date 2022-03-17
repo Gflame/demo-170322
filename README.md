@@ -1,2 +1,5 @@
-# demo-170322
-Flexiana React coding task
+Start Project
+
+git clone
+yarn install
+yarn start
